@@ -1,3 +1,3 @@
 
-Thiết kế và thu thập dữ liệu khảo sát từ sinh viên, số hóa dữ liệu và phân tích bằng Python. Áp dụng thống kê mô tả, xử lý dữ liệu thiếu (data imputation) và trực quan hóa để phân tích mức độ hài lòng và mối tương quan giữa các yếu tố.
-Tech: Python, pandas, numpy, matplotlib, seaborn
+hực hiện feature engineering, khai phá dữ liệu và xây dựng mô hình Machine Learning (Naive Bayes, SVM) để dự đoán tác giả từ câu nói. Áp dụng cosine similarity để phân tích mức độ tương đồng phong cách giữa các tác giả.
+Tech:Python, pandas, scikit-learn, NLP
